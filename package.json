@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmqtestsample",
+  "version": "1.0.0",
+  "description": "This is only test and it does not use for further target",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddivahed/RabbitMQTestSample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddivahed/RabbitMQTestSample/issues"
+  },
+  "homepage": "https://github.com/eddivahed/RabbitMQTestSample#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
